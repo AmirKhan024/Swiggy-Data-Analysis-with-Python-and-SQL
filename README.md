@@ -5,9 +5,6 @@ Swiggy is one of India's leading food delivery platforms, connecting millions of
 
 ![image](https://github.com/user-attachments/assets/e9964ba9-734d-4b4d-aa84-59f28cde2ef3)
 
-## Dataset Overview
-This dataset is a manually curated sample designed for advanced SQL practice, particularly focusing on JOIN operations. Unlike real-world Swiggy datasets found on Kaggle or other platforms, which usually contain one or two tables, this dataset includes multiple interconnected tables. The dataset was created by CampusX, a YouTube channel specializing in data science tutorials.
-
 ## Relational Schema
 
 ![Screenshot 2025-01-30 153106](https://github.com/user-attachments/assets/f66df757-9ae1-489d-96c5-4bc62298bd52)
